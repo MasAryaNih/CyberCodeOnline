@@ -1,5 +1,8 @@
 {
  	"tabs": {
+   "trans": "Tab"
+   "eng" : "Tabs"
+  },
  	 	"map": {
  	 	 	"trans": "Peta",
  	 	 	"eng": "Map"
@@ -19,10 +22,11 @@
  	 	"profile": {
  	 	 	"trans": "Profil",
  	 	 	"eng": "Profile"
- 	 	}
- 	},
+ 	 	},
  	"ui": {
  	 	"blackMarket": {
+      "Trans": "Pasar Gelap"
+      "eng": "Black Market"
  	 	 	"selectItemButton": {
  	 	 	 	"trans": "Cetak dan jual",
  	 	 	 	"eng": "Print And Sell"
@@ -36,7 +40,9 @@
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
- 	 	 	 	 	 	"amount"
+ 	 	 	 	 	 	"amount" : {
+             "Trans": "Peluru"
+             "eng": "Amount"
  	 	 	 	 	],
  	 	 	 	 	"trans": "${amount} bitcoin akan disetorkan ke akun geng Anda, tindakan ini tidak dapat dikembalikan",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
